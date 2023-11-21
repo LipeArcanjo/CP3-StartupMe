@@ -1,0 +1,1 @@
+console.log('me da 10 pelo são paulo futebol clube professor')
